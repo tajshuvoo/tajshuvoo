@@ -52,48 +52,6 @@
 
 ---
 
-## 🚀 Projects
-
-### Brand Guardian AI  
-[Repo](https://github.com/tajshuvoo/brand-guardian-ai) • [Live](https://tajshuvo.vercel.app)  
-- Agentic video compliance pipeline  
-- LangGraph + RAG reasoning  
-- Structured risk reporting  
-
----
-
-### Bangla LLM Distillation  
-[Repo](https://github.com/tajshuvoo/bangla-llm-distillation)  
-- 7B → 1.1B compression  
-- QLoRA fine-tuning  
-- Efficient instruction learning  
-
----
-
-### Multi-Agent Blog System  
-[Repo](https://github.com/tajshuvoo/blog-agent-system) • [Live](https://tajshuvo.vercel.app)  
-- Multi-agent orchestration  
-- Structured outputs (Pydantic)  
-- Tool-based research  
-
----
-
-### Constitutional RAG System  
-[Repo](https://github.com/tajshuvoo/constitutional-rag) • [Live](https://tajshuvo.vercel.app)  
-- FAISS retrieval + validation  
-- Self-correcting pipeline  
-- Legal QA API  
-
----
-
-### Image Captioning System  
-[Repo](https://github.com/tajshuvoo/image-captioning-system)  
-- CNN–LSTM (VGG16)  
-- MLflow + DVC pipeline  
-- Streamlit app  
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
