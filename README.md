@@ -97,11 +97,22 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=tajshuvoo&show_icons=true&theme=default&hide_border=true">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tajshuvoo&layout=compact&hide_border=true">
+
+<img src="https://github-readme-stats-fast.vercel.app/api?username=tajshuvoo&show_icons=true&theme=transparent&hide_border=true">
+
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=tajshuvoo&layout=compact&theme=transparent&hide_border=true">
+
 </p>
 
+
 ---
+
+## 🔥 Streak Stats
+
+<p align="center">
+<img src="https://streak-stats.demolab.com/?user=tajshuvoo&theme=transparent&hide_border=true">
+</p>
+
 
 ## 📈 Activity
 
@@ -113,5 +124,5 @@
 
 ## 🎓
 
-CSE @ RUET 
+CSE @ RUET  
 Open to AI/ML roles
