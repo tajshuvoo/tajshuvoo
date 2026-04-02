@@ -1,4 +1,4 @@
-<h1 align="center">Tajbir Hasan Shuvo</h1>
+<h1 align="center">Md. Tajbir Hasan Shuvo</h1>
 <p align="center">AI/ML Engineer • LLM Systems • RAG • Agentic AI</p>
 
 <p align="center">
